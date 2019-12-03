@@ -1,0 +1,20 @@
+{
+  "name": "v--custom-scrollable-picker",
+  "version": "1.0.1",
+  "description": "Customize scrollable picker library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrollable-picker",
+    "picker",
+    "scroll-picker",
+    "scroll-picker-react-native",
+    "v--scroll-picker-react-native",
+    "date-picker",
+    "number-picker"
+  ],
+  "author": "Vuong Nguyen",
+  "license": "ISC"
+}

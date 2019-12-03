@@ -1,0 +1,17 @@
+{
+  "name": "v--calendar-react-native",
+  "version": "1.0.3",
+  "description": "Customize a calendar view in React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "calendar-react-native",
+    "calendar-view",
+    "calendar"
+  ],
+  "author": "Vuong Nguyen",
+  "license": "ISC"
+}
